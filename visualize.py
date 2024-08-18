@@ -10,6 +10,7 @@ car_speeds_dict = {}
 MAX_REASONABLE_SPEED = 300  # in km/h
 
 
+
 def draw_border(img, top_left, bottom_right, color=(0, 255, 0), thickness=10, line_length_x=200, line_length_y=200):
     x1, y1 = top_left
     x2, y2 = bottom_right
